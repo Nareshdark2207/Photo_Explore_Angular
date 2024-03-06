@@ -1,0 +1,390 @@
+{
+    
+    "CategoryList": [
+        {
+            "date_range": "Recent Highlights",
+            "image_list": [
+                {
+                    "Id": "1",
+                    "url": "./assets/images/small/nature_small_1.jpg"
+                },
+                {
+                    "Id": "2",
+                    "url": "./assets/images/small/nature_small_2.jpg"
+                },
+                {
+                    "Id": "3",
+                    "url": "./assets/images/small/nature_small_3.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/small/nature_small_4.jpg"
+                },
+                {
+                    "Id": "5",
+                    "url": "./assets/images/small/nature_small_5.jpg"
+                }
+            ]
+        },
+        {
+            "date_range": "Jan-Sept , 2021",
+            "image_list": [
+                {
+                    "Id": "1",
+                    "url": "./assets/images/small/nature_small_6.jpg"
+                },
+                {
+                    "Id": "2",
+                    "url": "./assets/images/small/nature_small_7.jpg"
+                },
+                {
+                    "Id": "3",
+                    "url": "./assets/images/small/nature_small_8.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/small/nature_small_9.jpg"
+                },
+                {
+                    "Id": "5",
+                    "url": "./assets/images/small/nature_small_10.jpg"
+                }
+            ]
+        },
+        {
+            "date_range": "Mar-Nov , 2020",
+            "image_list": [
+                {
+                    "Id": "1",
+                    "url": "./assets/images/small/nature_small_11.jpg"
+                },
+                {
+                    "Id": "2",
+                    "url": "./assets/images/small/nature_small_12.jpg"
+                },
+                {
+                    "Id": "3",
+                    "url": "./assets/images/small/nature_small_13.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/small/nature_small_14.jpg"
+                },
+                {
+                    "Id": "5",
+                    "url": "./assets/images/small/nature_small_15.jpg"
+                }
+            ]
+        },
+        {
+            "date_range": "Feb-Dec , 2019",
+            "image_list": [
+                {
+                    "Id": "1",
+                    "url": "./assets/images/small/nature_small_16.jpg"
+                },
+                {
+                    "Id": "2",
+                    "url": "./assets/images/small/nature_small_17.jpg"
+                },
+                {
+                    "Id": "3",
+                    "url": "./assets/images/small/nature_small_18.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/small/nature_small_19.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/small/nature_small_20.jpg"
+                }
+            ]
+        }
+    ],
+
+    "BrandList": [
+        {
+            "date_range": "Recent Highlights",
+            "image_list": [
+                {
+                    "Id": "1",
+                    "url": "./assets/images/brands/b1.jpg"
+                },
+                {
+                    "Id": "2",
+                    "url": "./assets/images/brands/b2.jpg"
+                },
+                {
+                    "Id": "3",
+                    "url": "./assets/images/brands/b3.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/brands/b4.jpg"
+                },
+                {
+                    "Id": "5",
+                    "url": "./assets/images/brands/b5.jpg"
+                }
+            ]
+        },
+        {
+            "date_range": "Jan-Sept , 2021",
+            "image_list": [
+                {
+                    "Id": "1",
+                    "url": "./assets/images/brands/b6.jpg"
+                },
+                {
+                    "Id": "2",
+                    "url": "./assets/images/brands/b7.jpg"
+                },
+                {
+                    "Id": "3",
+                    "url": "./assets/images/brands/b8.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/brands/b9.jpg"
+                },
+                {
+                    "Id": "5",
+                    "url": "./assets/images/brands/b10.jpg"
+                }
+            ]
+        },
+        {
+            "date_range": "Mar-Nov , 2020",
+            "image_list": [
+                {
+                    "Id": "1",
+                    "url": "./assets/images/brands/b11.jpg"
+                },
+                {
+                    "Id": "2",
+                    "url": "./assets/images/brands/b12.jpg"
+                },
+                {
+                    "Id": "3",
+                    "url": "./assets/images/brands/b13.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/brands/b14.jpg"
+                },
+                {
+                    "Id": "5",
+                    "url": "./assets/images/brands/b15.jpg"
+                }
+            ]
+        },
+        {
+            "date_range": "Feb-Dec , 2019",
+            "image_list": [
+                {
+                    "Id": "1",
+                    "url": "./assets/images/brands/b1.jpg"
+                },
+                {
+                    "Id": "2",
+                    "url": "./assets/images/brands/b2.jpg"
+                },
+                {
+                    "Id": "3",
+                    "url": "./assets/images/brands/b3.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/brands/b4.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/brands/b5.jpg"
+                }
+            ]
+        }
+    ],
+
+    "StoreList": [
+        {
+            "date_range": "Recent Highlights",
+            "image_list": [
+                {
+                    "Id": "1",
+                    "url": "./assets/images/stores/s1.jpg"
+                },
+                {
+                    "Id": "2",
+                    "url": "./assets/images/stores/s2.jpg"
+                },
+                {
+                    "Id": "3",
+                    "url": "./assets/images/stores/s3.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/stores/s4.jpg"
+                },
+                {
+                    "Id": "5",
+                    "url": "./assets/images/stores/s5.jpg"
+                }
+            ]
+        },
+        {
+            "date_range": "Jan-Sept , 2021",
+            "image_list": [
+                {
+                    "Id": "1",
+                    "url": "./assets/images/stores/s6.jpg"
+                },
+                {
+                    "Id": "2",
+                    "url": "./assets/images/stores/s7.jpg"
+                },
+                {
+                    "Id": "3",
+                    "url": "./assets/images/stores/s8.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/stores/s9.jpg"
+                },
+                {
+                    "Id": "5",
+                    "url": "./assets/images/stores/s10.jpg"
+                }
+            ]
+        },
+        {
+            "date_range": "Mar-Nov , 2020",
+            "image_list": [
+                {
+                    "Id": "1",
+                    "url": "./assets/images/stores/s11.jpg"
+                },
+                {
+                    "Id": "2",
+                    "url": "./assets/images/stores/s12.jpg"
+                },
+                {
+                    "Id": "3",
+                    "url": "./assets/images/stores/s13.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/stores/s14.jpg"
+                },
+                {
+                    "Id": "5",
+                    "url": "./assets/images/stores/s15.jpg"
+                }
+            ]
+        },
+        {
+            "date_range": "Feb-Dec , 2019",
+            "image_list": [
+                {
+                    "Id": "1",
+                    "url": "./assets/images/stores/s1.jpg"
+                },
+                {
+                    "Id": "2",
+                    "url": "./assets/images/stores/s2.jpg"
+                },
+                {
+                    "Id": "3",
+                    "url": "./assets/images/stores/s3.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/stores/s4.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/stores/s5.jpg"
+                }
+            ]
+        }
+    ] ,
+
+    "AlbumList": [
+        {
+            "date_range": "Recent Highlights",
+            "image_list": [
+                {
+                    "Id": "1",
+                    "url": "./assets/images/photos/p1.jpg"
+                },
+                {
+                    "Id": "2",
+                    "url": "./assets/images/photos/p2.jpg"
+                },
+                {
+                    "Id": "3",
+                    "url": "./assets/images/photos/p3.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/photos/p4.jpg"
+                },
+                {
+                    "Id": "5",
+                    "url": "./assets/images/photos/p5.jpg"
+                }
+            ]
+        },
+        {
+            "date_range": "Jan-Sept , 2021",
+            "image_list": [
+                {
+                    "Id": "1",
+                    "url": "./assets/images/photos/p6.jpg"
+                },
+                {
+                    "Id": "2",
+                    "url": "./assets/images/photos/p7.jpg"
+                },
+                {
+                    "Id": "3",
+                    "url": "./assets/images/photos/p8.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/photos/p9.jpg"
+                },
+                {
+                    "Id": "5",
+                    "url": "./assets/images/photos/p10.jpg"
+                }
+            ]
+        },
+        {
+            "date_range": "Mar-Nov , 2020",
+            "image_list": [
+                {
+                    "Id": "1",
+                    "url": "./assets/images/photos/p1.jpg"
+                },
+                {
+                    "Id": "2",
+                    "url": "./assets/images/photos/p2.jpg"
+                },
+                {
+                    "Id": "3",
+                    "url": "./assets/images/photos/p3.jpg"
+                },
+                {
+                    "Id": "4",
+                    "url": "./assets/images/photos/p4.jpg"
+                },
+                {
+                    "Id": "5",
+                    "url": "./assets/images/photos/p5.jpg"
+                }
+            ]
+        }
+    ]
+
+}

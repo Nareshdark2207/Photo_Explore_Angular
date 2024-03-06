@@ -1,0 +1,78 @@
+total 1320
+drwxrwxr-x@ 17 nareshs     544 Jun 29 16:16 brands
+drwxrwxr-x@ 12 nareshs     384 Jul  5 17:45 photos
+-rw-rw-r--@  1 nareshs   58948 Jun 22 12:28 profile.png
+drwxrwxr-x@ 22 nareshs     704 Jul  6 00:22 small
+drwxrwxr-x@ 17 nareshs     544 Jun 29 17:33 stores
+
+./brands:
+total 2304
+-rw-rw-r--@ 1 nareshs   39610 Jun 29 16:06 b1.jpg
+-rw-rw-r--@ 1 nareshs   48673 Jun 29 16:15 b10.jpg
+-rw-rw-r--@ 1 nareshs   55705 Jun 29 16:12 b11.jpg
+-rw-rw-r--@ 1 nareshs  138465 Jun 29 16:13 b12.jpg
+-rw-rw-r--@ 1 nareshs   14916 Jun 29 16:13 b13.jpg
+-rw-rw-r--@ 1 nareshs   48925 Jun 29 16:14 b14.jpg
+-rw-rw-r--@ 1 nareshs   75135 Jun 29 16:14 b15.jpg
+-rw-rw-r--@ 1 nareshs   83848 Jun 29 16:07 b2.jpg
+-rw-rw-r--@ 1 nareshs  270842 Jun 29 16:08 b3.jpg
+-rw-rw-r--@ 1 nareshs   29697 Jun 29 16:08 b4.jpg
+-rw-rw-r--@ 1 nareshs   29499 Jun 29 16:09 b5.jpg
+-rw-rw-r--@ 1 nareshs   58460 Jun 29 16:09 b6.jpg
+-rw-rw-r--@ 1 nareshs   79820 Jun 29 16:09 b7.jpg
+-rw-rw-r--@ 1 nareshs    7878 Jun 29 16:10 b8.jpg
+-rw-rw-r--@ 1 nareshs  169826 Jun 29 16:10 b9.jpg
+
+./photos:
+total 1800
+-rw-rw-r--@ 1 nareshs   95158 Jul  5 17:44 p1.jpg
+-rw-rw-r--@ 1 nareshs   73074 Jul  5 17:44 p10.jpg
+-rw-rw-r--@ 1 nareshs   62974 Jul  5 17:45 p2.jpg
+-rw-rw-r--@ 1 nareshs   67404 Jul  5 17:44 p3.jpg
+-rw-rw-r--@ 1 nareshs  171040 Jul  5 17:44 p4.jpg
+-rw-rw-r--@ 1 nareshs   50780 Jul  5 17:45 p5.jpg
+-rw-rw-r--@ 1 nareshs  137261 Jul  5 17:45 p6.jpg
+-rw-rw-r--@ 1 nareshs   41046 Jul  5 17:44 p7.jpg
+-rw-rw-r--@ 1 nareshs  128413 Jul  5 17:44 p8.jpg
+-rw-rw-r--@ 1 nareshs   71816 Jul  5 17:44 p9.jpg
+
+./small:
+total 8352
+-rw-rw-r--@ 1 nareshs  125299 Jun 23 11:50 nature_small_1.jpg
+-rw-rw-r--@ 1 nareshs  173731 Jun 28 20:22 nature_small_10.jpg
+-rw-rw-r--@ 1 nareshs   96586 Jun 28 20:23 nature_small_11.jpg
+-rw-rw-r--@ 1 nareshs   90884 Jun 28 20:23 nature_small_12.jpg
+-rw-rw-r--@ 1 nareshs  607738 Jun 28 20:24 nature_small_13.jpg
+-rw-rw-r--@ 1 nareshs  162102 Jun 28 20:25 nature_small_14.jpg
+-rw-rw-r--@ 1 nareshs  115513 Jun 28 20:25 nature_small_15.jpg
+-rw-rw-r--@ 1 nareshs  528160 Jun 28 20:26 nature_small_16.jpg
+-rw-rw-r--@ 1 nareshs  310700 Jun 28 20:26 nature_small_17.jpg
+-rw-rw-r--@ 1 nareshs  315948 Jun 28 20:27 nature_small_18.jpg
+-rw-rw-r--@ 1 nareshs  121437 Jun 28 20:28 nature_small_19.jpg
+-rw-rw-r--@ 1 nareshs  351324 Jun 23 11:50 nature_small_2.jpg
+-rw-rw-r--@ 1 nareshs  334958 Jun 28 20:31 nature_small_20.jpg
+-rw-rw-r--@ 1 nareshs   52864 Jun 23 11:50 nature_small_3.jpg
+-rw-rw-r--@ 1 nareshs  141430 Jun 23 11:50 nature_small_4.jpg
+-rw-rw-r--@ 1 nareshs  154272 Jun 23 11:50 nature_small_5.jpg
+-rw-rw-r--@ 1 nareshs  175986 Jun 23 11:50 nature_small_6.jpg
+-rw-rw-r--@ 1 nareshs  117300 Jun 23 11:50 nature_small_7.jpg
+-rw-rw-r--@ 1 nareshs  110094 Jun 23 11:50 nature_small_8.jpg
+-rw-rw-r--@ 1 nareshs  155880 Jun 23 11:50 nature_small_9.jpg
+
+./stores:
+total 4832
+-rw-rw-r--@ 1 nareshs   77306 Jun 29 16:51 s1.jpg
+-rw-rw-r--@ 1 nareshs  171530 Jun 29 16:54 s10.jpg
+-rw-rw-r--@ 1 nareshs  125762 Jun 29 17:30 s11.jpg
+-rw-rw-r--@ 1 nareshs  158316 Jun 29 17:31 s12.jpg
+-rw-rw-r--@ 1 nareshs   73276 Jun 29 17:31 s13.jpg
+-rw-rw-r--@ 1 nareshs  118718 Jun 29 17:31 s14.jpg
+-rw-rw-r--@ 1 nareshs  130464 Jun 29 17:32 s15.jpg
+-rw-rw-r--@ 1 nareshs  116865 Jun 29 16:52 s2.jpg
+-rw-rw-r--@ 1 nareshs   87019 Jun 29 16:52 s3.jpg
+-rw-rw-r--@ 1 nareshs  221542 Jun 29 16:52 s4.jpg
+-rw-rw-r--@ 1 nareshs   94428 Jun 29 16:53 s5.jpg
+-rw-rw-r--@ 1 nareshs  207090 Jun 29 16:53 s6.jpg
+-rw-rw-r--@ 1 nareshs   91805 Jun 29 16:53 s7.jpg
+-rw-rw-r--@ 1 nareshs  591010 Jun 29 16:54 s8.jpg
+-rw-rw-r--@ 1 nareshs  183922 Jun 29 16:54 s9.jpg
